@@ -14,7 +14,10 @@ import {
   editImageMenuConf,
   viewImageLinkMenuConf,
   imageWidth30MenuConf,
+  imageWidth40MenuConf,
   imageWidth50MenuConf,
+  imageWidth60MenuConf,
+  imageWidth80MenuConf,
   imageWidth100MenuConf,
 } from './menu/index'
 
@@ -28,7 +31,10 @@ const image: Partial<IModuleConf> = {
     editImageMenuConf,
     viewImageLinkMenuConf,
     imageWidth30MenuConf,
+    imageWidth40MenuConf,
     imageWidth50MenuConf,
+    imageWidth60MenuConf,
+    imageWidth80MenuConf,
     imageWidth100MenuConf,
   ],
   editorPlugin: withImage,

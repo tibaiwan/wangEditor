@@ -11,7 +11,10 @@ const COMMON_HOVERBAR_KEYS = {
   image: {
     menuKeys: [
       'imageWidth30',
+      'imageWidth40',
       'imageWidth50',
+      'imageWidth60',
+      'imageWidth80',
       'imageWidth100',
       'editImage',
       'viewImageLink',
